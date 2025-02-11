@@ -1,1 +1,2 @@
 file 2 contents
+updating file 2 in new_branch
